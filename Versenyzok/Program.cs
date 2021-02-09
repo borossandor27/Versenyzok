@@ -9,6 +9,10 @@ namespace Versenyzok
 {
     class Program
     {
+        /*
+         * 
+         */
+
         static List<Versenyzo> Versenyzok = new List<Versenyzo>();
         static void Main(string[] args)
         {
